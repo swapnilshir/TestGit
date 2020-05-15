@@ -1,3 +1,3 @@
 <php
-echo "hello Test Git";
+echo "hello Test Git from Ui";
 	?>
